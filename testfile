@@ -1,0 +1,4 @@
+cat file
+git add testfile
+git commit -m "This is a test file for testing git credentials - 2nd Method"
+git push
